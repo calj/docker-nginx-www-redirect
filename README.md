@@ -1,4 +1,4 @@
 docker-nginx-www-redirect
 ===========================
 
-A simple nginx container which redirects all http requests to the same hostname with www.
+A simple nginx container that redirects all requests to http://domain to https://www.domain
